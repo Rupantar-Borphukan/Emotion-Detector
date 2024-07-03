@@ -1,3 +1,4 @@
-# Emotion_Detection_CNN
+# Emotion Detector 
 
-Data Set Link - https://www.kaggle.com/jonathanoheix/face-expression-recognition-dataset
+## Library Used : NumPy, Pandas, Scikit-learn, Tensorflow,  
+
