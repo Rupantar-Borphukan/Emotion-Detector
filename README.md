@@ -1,4 +1,4 @@
 # Emotion Detector 
 
-## Library Used : NumPy, Pandas, Scikit-learn, Tensorflow,  
+## Library Used : NumPy, Pandas, Scikit-learn, Matplotlib, Keras
 
